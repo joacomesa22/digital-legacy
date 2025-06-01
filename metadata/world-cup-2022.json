@@ -1,0 +1,11 @@
+{
+  "name": "Trofeo Mundial 2022",
+  "description": "NFT oficial emitido por Digital Legacy para la selección campeona del Mundial 2022.",
+  "image": "ipfs://Qm...png",
+  "attributes": [
+    { "trait_type": "Deporte", "value": "Fútbol" },
+    { "trait_type": "Campeón", "value": "Argentina" },
+    { "trait_type": "Sede", "value": "Qatar" },
+    { "trait_type": "Año", "value": "2022" }
+  ]
+}

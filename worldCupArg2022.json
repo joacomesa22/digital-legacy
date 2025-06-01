@@ -1,0 +1,10 @@
+{
+  "name": "Argentina Campeón del Mundo 2022",
+  "description": "NFT conmemorativo de la victoria de Argentina en la Copa Mundial FIFA 2022. Un tributo al fútbol, la cultura y la pasión.",
+  "image": "ipfs.io/ipfs/bafkreig4m7lx7upl56pi6r7oqc2hnxihdzlcbzrkqanrwjlvpoubik6jdi",
+  "attributes": [
+    { "trait_type": "Campeón", "value": "Argentina" },
+    { "trait_type": "Torneo", "value": "Copa Mundial FIFA" },
+    { "trait_type": "Año", "value": "2022" }
+  ]
+}
